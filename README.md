@@ -1,6 +1,4 @@
-# Waline Example
-
-This directory is a brief example of a [Waline](https://waline.js.org/) app that can be deployed with Vercel and zero configuration.
+# 这是一个用 [Waline](https://waline.js.org/) 搭建的评论系统
 
 ## Deploy Your Own
 
